@@ -16,3 +16,11 @@ This Go application checks the connection through the Tor network using a SOCKS5
    ```bash
    SocksPort 0.0.0.0:9150
    DataDirectory B:\Tor Browser\Browser\TorBrowser\Data\Tor
+
+##This project is licensed under the MIT License.
+
+
+
+
+
+
